@@ -28,6 +28,6 @@ The client will connect to the socket server and receive data pushed by the serv
 
 There are several ways to push data to clients:
 
-- STDIN of the terminal used to launch the server is pushed to the socket clients.
+- STDIN of the terminal used to launch the server is pushed to the socket clients, so use your keyboard...
 - Open your browser at http://localhost:1978/push
 - To be continued...
