@@ -1,0 +1,34 @@
+{
+  "name": "node-socketio-sample",
+  "version": "0.0.1",
+  "description": "Getting data from STDIN and pushing to to socket.io",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/node-socketio-sample",
+  "keywords": [
+    "node"
+  ],
+  "maintainers": [{
+    "name": "Christophe Hamerling",
+    "email": "christophe.hamerling@gmail.com"
+  }],
+  "contributors": [],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "bugs": {
+    "url": "https://github.com/chamerling/node-socketio-sample/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/node-socketio-sample.git"
+  },
+  "engines": {
+    "node": "0.6.x",
+    "npm": "1.0.x"
+  },
+  "dependencies": {
+    "socket.io": "0.9.10",
+    "socket.io-client": "0.9.10"
+  }
+}
