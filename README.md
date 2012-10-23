@@ -8,13 +8,13 @@ A light collection of simple socket.io samples.
   npm install
 ```
 
-Launch the server on http://localhost:1337 :
+Launch the server on http://localhost:1978 :
 
 ```
   node server.js
 ```
 
-Once launched, you can open your browser on http://localhost:1337
+Once launched, you can open your browser on http://localhost:1978
 
 The socket.io-client module provides a way to use socket io on the client without the browser:
 
@@ -29,5 +29,5 @@ The client will connect to the socket server and receive data pushed by the serv
 There are several ways to push data to clients:
 
 - STDIN of the terminal used to launch the server is pushed to the socket clients.
-- Open your browser at http://localhost:1337/push
+- Open your browser at http://localhost:1978/push
 - To be continued...
