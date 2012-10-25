@@ -1,6 +1,6 @@
 # Socket IO Samples
 
-A light collection of simple socket.io samples.
+A light collection of simple socket.io samples. Initially inspired by @mikeal talk at http://www.youtube.com/watch?v=hzyz3u3dlTg
 
 ## Usage
 
@@ -31,3 +31,5 @@ There are several ways to push data to clients:
 - STDIN of the terminal used to launch the server is pushed to the socket clients, so use your keyboard...
 - Open your browser at http://localhost:1978/push
 - To be continued...
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/fDQWxEbk_HI" frameborder="0" allowfullscreen></iframe>
