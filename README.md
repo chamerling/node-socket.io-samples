@@ -32,4 +32,4 @@ There are several ways to push data to clients:
 - Open your browser at http://localhost:1978/push
 - To be continued...
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/fDQWxEbk_HI" frameborder="0" allowfullscreen></iframe>
+http://www.youtube.com/embed/fDQWxEbk_HI
