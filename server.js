@@ -1,3 +1,9 @@
+/*!
+ * socket.io samples
+ * Copyright(c) 2012 Christophe Hamerling <christophe.hamerling@gmail.com>
+ * MIT Licensed
+ */
+ 
 var fs = require('fs'),
 path = require('path'),
 http = require('http'),

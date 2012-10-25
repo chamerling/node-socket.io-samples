@@ -1,6 +1,8 @@
-// 
-// Socket IO client, does nothing but disaply 'data' messages...
-//
+/*!
+ * socket.io samples
+ * Copyright(c) 2012 Christophe Hamerling <christophe.hamerling@gmail.com>
+ * MIT Licensed
+ */
 
 var io = require('socket.io-client');
 
